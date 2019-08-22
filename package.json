@@ -1,0 +1,23 @@
+{
+  "name": "node-hello-df,
+  "version": "1.0.0",
+  "description": "simple hello world",
+  "main": "nodejs-hw.js",
+  "scripts": {
+    "start:hello": "node node-hello-df.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phenicle/node-hello-df.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Phenicle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phenicle/node-hello-df/issues"
+  },
+  "homepage": "https://github.com/phenicle/node-hello-df#readme"
+}
